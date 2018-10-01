@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hostel Buddy</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="total_occupants">Total Occupants</string>
+    <string name="vacancy">Vacancy</string>
+    <string name="manipulate_this_via_java">Manipulate this via Java</string>
+    <string name="total_rent_collected">Total Rent Collected This Month</string>
+    <string name="remaining_rent">Remaining Rent This Month</string>
+</resources>
